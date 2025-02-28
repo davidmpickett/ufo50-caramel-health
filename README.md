@@ -1,4 +1,4 @@
-# ufo50-caramel-health
+# UFO 50 Mod - More health in Caramel Caramel
 A mod for UFO 50 that increases the health powerups in Caramel Caramel
 
 ## How to Install the Mod
