@@ -5,11 +5,15 @@ A mod for UFO 50 that increases the health powerups in Caramel Caramel
 
 Each level now has additional enemies that can be photographed to drop a wrench health powerup
 
-![One of the enemies in level 1 is a different color than it normally is](https://github.com/davidmpickett/ufo50-caramel-health/blob/main/images/level_1_example.jpg)
+Level 1 Example | Level 3 Example | Level 5 Example
+-- | -- | --
+![One of the enemies in level 1 is a different color than it normally is](https://github.com/davidmpickett/ufo50-caramel-health/blob/main/images/level_1_example.jpg) | ![One of the minecarts is now red](https://github.com/davidmpickett/ufo50-caramel-health/blob/main/images/level_3_example.jpg) | ![One of the turrets is now red](https://github.com/davidmpickett/ufo50-caramel-health/blob/main/images/level_5_example.jpg)
 
 Collecting a wrench when you are undamaged now bumps you up to an armored state with one extra hit point
 
-![Armored version of player character](https://github.com/davidmpickett/ufo50-caramel-health/blob/main/images/armored_sprite.jpg)
+Damaged | Undamaged | Armored
+-- | -- | --
+![Damaged player sprite](https://github.com/davidmpickett/ufo50-caramel-health/blob/main/images/damaged_sprite.jpg) | ![Undamaged player](https://github.com/davidmpickett/ufo50-caramel-health/blob/main/images/undamaged_sprite.jpg) | ![Armored version of player character](https://github.com/davidmpickett/ufo50-caramel-health/blob/main/images/armored_sprite.jpg)
 
 Using the TEST-LENS terminal code now allows you to select the Prologue and Finale for practice
 
