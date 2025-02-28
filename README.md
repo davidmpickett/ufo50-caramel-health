@@ -1,5 +1,5 @@
 # UFO 50 Mod - More health in Caramel Caramel
-A mod for UFO 50 that increases the health powerups in Caramel Caramel
+A mod for UFO 50 that increases the health powerups in Caramel Caramel. Compatible with UFO 50 v1.7.0.2.
 
 ## Features
 
