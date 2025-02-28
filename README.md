@@ -1,6 +1,13 @@
 # UFO 50 Mod - More health in Caramel Caramel
 A mod for UFO 50 that increases the health powerups in Caramel Caramel
 
+## Features
+
+- Each level now has additional enemies that can be photographed to drop a wrench health powerup
+- Collecting a wrench when you are undamaged now bumps you up to an armored state with one extra hit point
+- Using the TEST-LENS terminal code now allows you to select the Prologue and Finale for practice
+
+
 ## How to Install the Mod
 
 Note: Installing untrusted mods is risky. Install at your own risk. 
