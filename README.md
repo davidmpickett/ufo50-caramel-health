@@ -3,10 +3,17 @@ A mod for UFO 50 that increases the health powerups in Caramel Caramel
 
 ## Features
 
-- Each level now has additional enemies that can be photographed to drop a wrench health powerup
-- Collecting a wrench when you are undamaged now bumps you up to an armored state with one extra hit point
-- Using the TEST-LENS terminal code now allows you to select the Prologue and Finale for practice
+Each level now has additional enemies that can be photographed to drop a wrench health powerup
 
+![One of the enemies in level 1 is a different color than it normally is](https://github.com/davidmpickett/ufo50-caramel-health/blob/main/images/level_1_example.jpg)
+
+Collecting a wrench when you are undamaged now bumps you up to an armored state with one extra hit point
+
+![Armored version of player character](https://github.com/davidmpickett/ufo50-caramel-health/blob/main/images/armored_sprite.jpg)
+
+Using the TEST-LENS terminal code now allows you to select the Prologue and Finale for practice
+
+![Expanded level select menu](https://github.com/davidmpickett/ufo50-caramel-health/blob/main/images/level_select_menu.jpg)
 
 ## How to Install the Mod
 
