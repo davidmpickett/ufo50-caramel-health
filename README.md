@@ -24,7 +24,17 @@ Using the TEST-LENS terminal code now allows you to select the Prologue and Fina
 ## How to Install the Mod
 
 Note: Installing untrusted mods is risky. Install at your own risk. 
+### Using GMLoader for UFO50 (preferred method)
+1. Download and install [GMLoader for UFO 50](https://github.com/phil-macrocheira/GMLoader-UFO50/releases)
+2. Download the unzip [.zip file](/Caramel-Caramel-Health+.zip) for the mod
+3. Unzip the mod and place the `Caramel Caramel Health+` folder inside the `my mods` folder of GMLoader
+4. Run `UFO 50 Mod Installer.exe`
+5. Check the mod(s) you wish to install.
+6. Click `Install Mods`
 
+![UFO 50 Mod Install interface](/images/mod-install.png)
+
+### Using Delta Patcher (legacy method)
 1. Download and install [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases)
 2. Download the [.xdelta file](/caramel_health_v1.7.6.xdelta) for the mod
 3. Navigate to Game Files Directory - `C:\Program Files (x86)\Steam\steamapps\common\UFO 50` and find `data.win`
